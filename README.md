@@ -5,4 +5,4 @@ Nothing fancy. Just rewires the pins in a convenient fashion, without the need f
 
 The board has been succesfully produced by JLCPCB and Aisler, so I suppose any manufacturer of choice will do. It probably fits an entire host of different IDC connectors, but they've been succesfully fitted with Samtec's TST-125-01-G-D and TST-117-01-G-D. The 5V-GND-GND-12V "connector" could just be a floppy or hard drive wire bundle, recovered from an old ATX power supply.
 
-The project is in KiCad format and is free for anyone to use, either personally or commercially. There is no warranty in any way, though, and I don't accept any liability resulting from some sort of misuse.
+The project is in KiCad format and is free for anyone to use, either personally or commercially. Since I have absolutely no experience in schematic and PCB design, there will probably be some errors and "donts". If you happen to find them, please let me know so I can adapt the design accordingly. Needless to say, but use of this project is at your own risk.
